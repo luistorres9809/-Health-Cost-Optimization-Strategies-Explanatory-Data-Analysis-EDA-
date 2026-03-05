@@ -7,7 +7,28 @@ HealthWise does not have an evidence-based strategy in terms of how it can utili
 
 
 ---
+# Data Analysis Project
 
+## Overview
+This project explores and analyzes a dataset using Python. The goal is to identify patterns, trends, and insights through exploratory data analysis and visualization.
 
-# 2.Objetive
-The objective of this project is to identify meaningful trends in medical spending and hospital resource use to allow HealthWise to make sound strategic decisions. By exploratory data analysis, we seek to identify drivers of healthcare spending, segment patients based on their medical spending, and diagnose areas where resources can be optimized. By means of this study, HealthWise will be able to design better policies, reduce wasteful expenditure and improve the quality of service without compromising the financial viability of the health center.
+## Technologies
+- Python
+- Pandas
+- NumPy
+- Matplotlib / Seaborn
+- Jupyter Notebook
+
+## Workflow
+1. Data loading
+2. Data cleaning
+3. Exploratory data analysis
+4. Data visualization
+5. Insights extraction
+
+## Key Insights
+The analysis highlights trends and patterns in the dataset that can support data-driven decision making.
+
+## Author
+Luis Torres  
+MSc Data Science
